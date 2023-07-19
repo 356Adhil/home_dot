@@ -23,6 +23,8 @@ app.listen(3000, () => {
 });
 
 
+// Uncomment the code below and comment the code above, if you want test this project :-
+
 // const express = require("express");
 // const app = express();
 // const bookRoutes = require("./routes/bookRoutes");
