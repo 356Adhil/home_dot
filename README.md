@@ -4,17 +4,16 @@ Welcome to Home Dot Bookstore API! This API allows users to manage a collection 
 
 ## Installation
 
-1. Clone the repository:
-   open terminal
-   git clone <repository-url>
+1. ### Clone the repository:
+   * git clone https://github.com/356Adhil/home_dot.git
 
 2. ### Navigate to the project folder:
-   cd home_dot
+   * cd home_dot
 
 3. ### Install the dependencies:
-   npm install
+   * npm install
 
-## Run Project / Test Project
+## Run Project OR Test Project
    To start the server:
    * npm start
 
@@ -22,7 +21,7 @@ Welcome to Home Dot Bookstore API! This API allows users to manage a collection 
    * http://localhost:3000
 
    Or To run tests:
-   ### First Uncommand the commented code in app.js and commend the current code in app.js then:
+   ### First Uncomment the commented code in app.js and comment the current code in app.js then:
    * npm test
 
 ## API Endpoints:
@@ -33,6 +32,8 @@ Welcome to Home Dot Bookstore API! This API allows users to manage a collection 
 * `POST /books`: Adds a new book to the collection.
 * `PUT /books/:id`: Updates an existing book by its ID.
 * `DELETE /books/:id`: Deletes a book by its ID.
+
+### All the sample data are in db.js.
 
 ## Contact
 If you have any questions about the project, please feel free to contact me at 356adhil@gmail.com
